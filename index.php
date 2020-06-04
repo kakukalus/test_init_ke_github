@@ -10,5 +10,10 @@
 </head>
 <body>
     <h1>kocak egelu</h1>
+    <ul>
+    <li>
+    kocak balll
+    </li>
+    </ul>
 </body>
 </html>
